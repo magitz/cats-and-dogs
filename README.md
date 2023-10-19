@@ -1,1 +1,1 @@
-# cats-and-dogs
+# Information on Cats and Dogs
